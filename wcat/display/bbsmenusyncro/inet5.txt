@@ -1,0 +1,20 @@
+2cÕ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2c¸
+2c³7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 2c³
+2c³7b 7bI7bn7bt7be7br7bn7be7bt7b 7bM7be7bn7bu7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7bS7bp7by7b 7bV7bi7bs7bi7bt7bs7b 7bS7bp7by7b 7bB7bB7bS7b 7b 7b 7b 7b 7b 2c³
+2c³7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 2c³
+2cÆ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cµ
+2c³7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 4y[7bT4y]7b 7bT7be7bl7bn7be7bt7b 7bO7bu7bt7bb7bo7bu7bn7bd7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 2c³
+2c³7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 4y[7bF4y]7b 7bF7bT7bP7b 7bO7bu7bt7bb7bo7bu7bn7bd7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 2c³
+2c³7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 2c³
+2c³7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 4y[7b?4y]7b 7bI7bn7bf7bo7b 7bo7bn7b 7bT7be7bl7bn7be7bt7b 7ba7bn7bd7b 7b 7bF7bT7bP7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 2c³
+2c³7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 4y[7bQ4y]7b 7bQ7bu7bi7bt7b 7bt7bo7b 7bP7br7be7bv7bi7bo7bu7bs7b 7bM7be7bn7bu7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 7b 2c³
+2cÔ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2cÍ2c¾
+@07@
+ You are about to establish a connection to an Internet host.
+ The performance, reliability, availability and content of Internet
+ hosts is beyond @SYSTEM.BBSNAME@'s control.
+
+ Conference : @CONF.NAME@
+ Time Left  : @USER.TIMELEFTTODAY@
+ Command >>  
+@07@

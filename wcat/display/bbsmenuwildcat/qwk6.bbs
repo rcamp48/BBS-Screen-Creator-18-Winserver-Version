@@ -1,0 +1,19 @@
+@07@@CLS@
+              @P@ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß@00@
+              @P@     @Q@QWK Packet Menu  @3F@Spy Visits Spy BBS@O@       @S@Û@00@
+              @P@Ü@S@ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÛ@00@
+
+                      @B@ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                      ³ @Q@ D @H@ Download QWK Packet     @B@³
+                      ³ @Q@ U @H@ Upload REP Packet       @B@³
+                      ³ @Q@ Y @H@ Your QWK Settings       @B@³
+                      ³ @Q@ H @H@ Help Level              @B@³
+                      ³ @Q@ ? @H@ Command Help            @B@³
+                      ³ @Q@ G @H@ Goodbye, Logoff         @B@³
+                      ³ @Q@ Q @H@ Quit To Previous Menu   @B@³ 
+                      ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+      @N@Conference @0F@: @T@@CONF.NAME@
+      @N@Time Left  @0F@: @T@@USER.TIMELEFTTODAY@
+
+      @N@QWK Command >>
