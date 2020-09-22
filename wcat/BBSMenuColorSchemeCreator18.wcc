@@ -1180,12 +1180,15 @@ IF menuchoice = "M" THEN
         PRINT #2, lnumber
         PRINT lnumber
     LOOP
+    close #3
 ELSE
 END IF
 PRINT #2, "@07@"
 CLOSE #2
-CLOSE #3
 COLOR 7, 0
+print display
+print menuchoice
+
 if display="ansi" and menuchoice="D" then
 copyfile(ansidisp, "wc:\files\uploads\BBS Display Ansi\"+file2)
 elseif display="wc8" and menuchoice="D" then
@@ -1208,7 +1211,8 @@ copyfile(synmenu, "wc:\files\uploads\BBS Menu Syncronet\"+file5)
 elseif display="mystic" and menuchoice="M" then
 copyfile(mysmenu, "wc:\files\uploads\BBS Menu Mystic\"+file6)
 end if
-
+print wc8menu
+print 
 PRINT
 PRINT " Create another screen ? [Defaults to [Y]es : ";
 input " > ", answer
